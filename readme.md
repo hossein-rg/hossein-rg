@@ -6,12 +6,13 @@ your welcome
 <img src="./icons/Twitter.svg" width="48">
 <img src="./icons/LinkedIn.svg" width="48">
 <img src="./icons/Instagram.svg" width="48">
-```yaml
+
+
 fullname: hossein rezagholigol
 located_in: Qom-Iran
 current_job: Web Developer
 2023 Goals: ["Create 3+ Projects with(React-typeScript-Sass-nodeJs) and the evolution of react and redux learning."]
-``
+
 
 ---
 
