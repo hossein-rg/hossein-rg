@@ -3,7 +3,7 @@
 your welcome
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-<img src="./icons/Twitter.svg" width="48">
+<a href="instagram"><img src="./icons/Twitter.svg" width="48"></a>
 <img src="./icons/LinkedIn.svg" width="48">
 <img src="./icons/Instagram.svg" width="48">
 
