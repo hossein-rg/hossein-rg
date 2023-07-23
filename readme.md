@@ -14,14 +14,9 @@ current_job: Web Developer
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-  <img src="./icons/TypeScript.svg" width="48">
-  <img src="./icons/TailwindCSS-Dark.svg" width="48">
   <img src="./icons/Sass.svg" width="48"> 
-  <img src="./icons/Redux.svg" width="48">
-  <img src="./icons/React-Dark.svg" width="48">
   <img src="./icons/Postman.svg" width="48">
   <img src="./icons/NodeJS-Dark.svg" width="48">
-  <img src="./icons/NextJS-Dark.svg" width="48">
   <img src="./icons/MySQL-Dark.svg" width="48">
   <img src="./icons/MongoDB.svg" width="48">
   <img src="./icons/CSS.svg" width="48"> 
@@ -30,7 +25,12 @@ current_job: Web Developer
   <img src="./icons/JavaScript.svg" width="48">
   <img src="./icons/HTML.svg" width="48">
   <img src="./icons/Git.svg" width="48">
-  <img src="./icons/GraphQL-Dark.svg" width="48">
+<!--   <img src="./icons/GraphQL-Dark.svg" width="48">
+  <img src="./icons/NextJS-Dark.svg" width="48">
+  <img src="./icons/TailwindCSS-Dark.svg" width="48">
+  <img src="./icons/React-Dark.svg" width="48">
+  <img src="./icons/TypeScript.svg" width="48">
+  <img src="./icons/Redux.svg" width="48"> -->
 </p>
 
 ---
