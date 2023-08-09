@@ -21,7 +21,6 @@ description : I'm deeply focusing on frontend environment and working with langu
 
 ---
 
-
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer"/>
 </p>
