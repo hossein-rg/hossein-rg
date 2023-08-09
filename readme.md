@@ -27,6 +27,7 @@ description : I'm deeply focusing on frontend environment and working with langu
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb)&nbsp;
+![Postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman)&nbsp;
 ![Git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
 
