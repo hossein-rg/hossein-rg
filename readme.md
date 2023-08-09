@@ -1,8 +1,8 @@
 # imHossein
 [![Telegram](https://img.shields.io/badge/-telegram-05122A?style=flat&logo=telegram)](https://t.me/hosseinrg)
 [![GMail](https://img.shields.io/badge/-gmail-05122A?style=flat&logo=gmail)](mailto:hosinrg1380@gmail.com) 
-[![[Linkedin](https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=Linkedin)](1)
-[![[Instagram](https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/h0sein11/?hl=en)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=Linkedin)](1)
+[![Instagram](https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/h0sein11/?hl=en)
 
 
 your welcome
