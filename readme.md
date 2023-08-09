@@ -7,35 +7,21 @@ your welcome
 fullname: hossein rezagholigol
 located_in: Qom-Iran
 current_job: Web Developer
-2023 Goals: ["Create 3+ Projects with(React-typeScript-Sass-nodeJs) and the evolution of react and redux learning."]
+description : I'm deeply focusing on frontend environment and working with languages and tools such as JavaScript, TypeScript, React.js
 
 ```
 ---
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-  <img src="./icons/Sass.svg" width="48"> 
-  <img src="./icons/Postman.svg" width="48">
-  <img src="./icons/NodeJS-Dark.svg" width="48">
-  <img src="./icons/MySQL-Dark.svg" width="48">
-  <img src="./icons/MongoDB.svg" width="48">
-  <img src="./icons/CSS.svg" width="48"> 
-  <img src="./icons/ExpressJS-Dark.svg" width="48">
-  <img src="./icons/Linux-Dark.svg" width="48">
-  <img src="./icons/JavaScript.svg" width="48">
-  <img src="./icons/HTML.svg" width="48">
-  <img src="./icons/Git.svg" width="48">
-<!--   <img src="./icons/GraphQL-Dark.svg" width="48">
-  <img src="./icons/NextJS-Dark.svg" width="48">
-  <img src="./icons/TailwindCSS-Dark.svg" width="48">
-  <img src="./icons/React-Dark.svg" width="48">
-  <img src="./icons/TypeScript.svg" width="48">
-  <img src="./icons/Redux.svg" width="48"> -->
-</p>
+<h2> 🚀 &nbsp;The languages and tools that we spend our time together:
+</h2>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 ---
 
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer"/>
 </p>
