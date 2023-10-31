@@ -9,10 +9,10 @@ your welcome
 
 ```yaml
 
-fullname: hossein rezagholigol
-located_in: Qom-Iran
-current_job: Web Developer
-description : I'm deeply focusing on frontend environment and working with languages and tools such as JavaScript, TypeScript, React.js
+Fullname: Hossein Rezagholigol
+Located_in: Qom-Iran
+Current_job: Web Developer
+Description : I'm deeply focusing on frontend environment and working with languages and tools such as JavaScript, TypeScript, React.js
 
 ```
 
